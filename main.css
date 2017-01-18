@@ -32,6 +32,8 @@ header h1 {
   width: 400px;
   height: 30px;
   border: 1px solid lightgrey;
+  font-size: 18px;
+
 }
 .search-btn{
   vertical-align: middle;
