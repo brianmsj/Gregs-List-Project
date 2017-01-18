@@ -34,7 +34,21 @@ header h1 {
   border: 1px solid lightgrey;
 }
 .search-btn{
+  vertical-align: middle;
   width: 30px;
   height: 30px;
+  border: 1px solid lightgrey;
 
+}
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+    white-space: nowrap;
 }
