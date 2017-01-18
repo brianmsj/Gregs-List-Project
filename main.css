@@ -28,7 +28,7 @@ header h1 {
   right: 15px;
   top: 15px;
 }
-#search {
+#search-field {
   width: 400px;
   height: 30px;
   border: 1px solid lightgrey;
