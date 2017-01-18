@@ -58,13 +58,25 @@ header h1 {
 }
 .list {
   list-style: none;
+  font-size: 18px;
   padding-bottom: 20px;
 
 }
 .date {
   color:darkgrey;
-
+  font-size: 18px;
 }
+.title {
+  margin-left: 5px;
+  margin-right: 5px;
+  font-weight: bold;
+  font-size: 18px;
+}
+.location {
+  color:darkgrey;
+  font-size:18px;
+}
+
 
 
 
