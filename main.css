@@ -4,8 +4,9 @@
 body {
   margin: 0;
   padding: 80px;
-  font-family: "roboto" sans-serif;
+  font-family: "Roboto" sans-serif;
 }
+
 header {
   position: fixed;
   top: 0;
@@ -19,11 +20,16 @@ header h1 {
   font-size: 20px;
   padding: 0;
   margin: 0;
-  
+
 }
 
 .first-nav {
   position: absolute;
   right: 15px;
   top: 15px;
+}
+#search {
+  width: 400px;
+  height: 30px;
+  border: 1px solid lightgrey;
 }
