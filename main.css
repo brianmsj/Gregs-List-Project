@@ -53,6 +53,13 @@ header h1 {
   border: 1px solid lightgrey;
 }
 
+.list {
+  list-style: none;
+  padding-bottom: 20px;
+
+}
+
+
 
 .visuallyhidden {
     border: 0;
