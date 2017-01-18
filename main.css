@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  }
+body {
+  margin: 0;
+  padding: 80px;
+  font-family: "roboto" sans-serif;
+}
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 10px;
+  background-color: #EEEEEE;
+  border-bottom: 1px solid #DDDDDD;
+}
+header h1 {
+  font-size: 20px;
+  padding: 0;
+  margin: 0;
+  
+}
+
+.first-nav {
+  position: absolute;
+  right: 15px;
+  top: 15px;
+}
