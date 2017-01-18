@@ -53,6 +53,9 @@ header h1 {
   border: 1px solid lightgrey;
 }
 
+.list-items{
+ padding: 0;
+}
 .list {
   list-style: none;
   padding-bottom: 20px;
